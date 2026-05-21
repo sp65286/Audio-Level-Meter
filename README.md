@@ -1,6 +1,6 @@
 # Decibel Meter
 
-A real-time desktop audio level monitor built with Python and Tkinter. Displays live dBFS readings, a color-coded level bar with peak hold, and automatic loudness classification.
+A real-time desktop audio level monitor built with Python and Tkinter for Macos. Displays live dBFS readings, a color-coded level bar with peak hold, and automatic loudness classification.
 
 ## Screenshot
 
